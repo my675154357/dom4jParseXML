@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <charactor>
+        <name>李白</name>
+        <skill1>将进酒</skill1>
+        <skill2>神来之笔</skill2>
+        <skill3>青莲剑歌</skill3>
+    </charactor>
+</root>
